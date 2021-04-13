@@ -4,7 +4,7 @@ Final project for the [Spiced Data Science Bootcamp](https://www.spiced-academy.
 
 ## Credits
 
-[Malte Bonart](https://github.com/bonartm) created the [template](https://github.com/bonartm/heroku-flask) for deploying a Flask app to Heroku; and [Paul Wlodkowski](https://github.com/pawlodkowski) [adopted](https://github.com/pawlodkowski/heroku_flask_template) this template.
+[Malte Bonart](https://github.com/bonartm) created the [template](https://github.com/bonartm/heroku-flask) for deploying a Flask app to Heroku and [Paul Wlodkowski](https://github.com/pawlodkowski) [adopted](https://github.com/pawlodkowski/heroku_flask_template) this template, which I have used for this project.
 
 ## Live version
 
