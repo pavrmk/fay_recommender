@@ -1,6 +1,6 @@
 # News recommender bot "Fay" with Non-Negative Matrix Factorization
 
-Final project for the [Spiced Data Science Bootcamp](https://www.spiced-academy.com/en/program/data-science) by [Pavel Romanenko](https://github.com/pavrmk). For this project Pavel took the live data with enterprise innovation projects from my website [Future Atelier](https://www.futureatelier.com/). Future Atelier is a database and newsletter which lists the most remarkable enterprise innovation projects. Based on the preferences of the newsletter subscribers of Future Atelier Pavel has created a recommender bot which can predict innovation projects a new user may like based on their input.
+Final project for the [Spiced Data Science Bootcamp](https://www.spiced-academy.com/en/program/data-science) by [Pavel Romanenko](https://github.com/pavrmk). For this project Pavel took the live data with enterprise innovation projects from his website [Future Atelier](https://www.futureatelier.com/). Future Atelier is a database and newsletter with the most remarkable enterprise innovation projects. Based on the preferences of the newsletter subscribers of Future Atelier Pavel has created a recommender bot which can predict innovation projects a new user may like based on the input of the new user.
 
 ## Credits
 
