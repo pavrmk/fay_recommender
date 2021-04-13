@@ -24,6 +24,7 @@ For this demo version Pavel created a MySQL database with 100+ enterprise innova
   <img src="https://github.com/futureatelier/fay_recommender/blob/main/images/readme_file_screenshots/database.png">
 </kbd>
 
+
 The information from this database is processed with Python and RegEx to get clean tags and URLs.
 
 ``` 
