@@ -46,6 +46,10 @@ To get recommendations we are using the [Non-Negative Matrix Factorization](http
 
 To fit the model we need the usage data of the sample users who clicked on the news from the database. Based on this data we can create two matrices to train the model: one for the preferred URLs and one for the preferred tags. With this model we can predict the URLs and tags a new user may like, given one or more 
 
+## Stack
+
+<img src="https://github.com/pavrmk/fay_recommender/blob/main/images/readme_file_screenshots/fay_is_bay.gif">
+
 ## To do
 
 * Fix the mobile version of the demo website
