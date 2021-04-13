@@ -20,7 +20,10 @@ PLEASE NOTE: The website may take some 20 seconds to load when you try to access
 
 For this demo version Pavel created a MySQL database with 100+ enterprise innovation projects. 
 
-![MySQL Database Screenshot](https://github.com/futureatelier/fay_recommender/blob/main/images/readme_file_screenshots/database.png)
+<kbd>
+  <img src="https://github.com/futureatelier/fay_recommender/blob/main/images/readme_file_screenshots/database.png">
+</kbd>
+
 
 The information from this database is processed with Python and RegEx to get clean tags and URLs.
 
