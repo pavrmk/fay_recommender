@@ -1,0 +1,33 @@
+body {
+    background-color: #ffffff;
+}
+
+.header {
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    color: black;
+
+    size: 40px;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0x;
+    margin-right: 0px;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    font-family: Courier 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.content {
+    background-color:#ffffff;
+    color: black;
+    text-align: center;
+    font-family: "Courier New", Courier;
+    font-weight: 500;
+}
