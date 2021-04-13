@@ -10,6 +10,6 @@ Credits to [Malte Bonart](https://github.com/bonartm) who created the [template]
 A live version of this recommender bot is avaliable via https://fay-recommender.herokuapp.com/
 
 <kbd>
-![Recommender bot live demo](https://github.com/futureatelier/fay_recommender/blob/main/images/readme_file_screenshots/fay_live.gif)
+  <img src="https://github.com/futureatelier/fay_recommender/blob/main/images/readme_file_screenshots/fay_live.gif">
 </kbd>
 
