@@ -1,1 +1,1 @@
-# fay_recommender
+# News recommender with non-negative matrix factorization (NMF)
